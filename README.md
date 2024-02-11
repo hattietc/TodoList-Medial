@@ -1,5 +1,9 @@
 READ ME
 
+MOCKUP
+
+![Untitled](https://github.com/hattietc/TodoList-Medial/assets/69206124/7ffa7405-78b3-4210-b2da-81ef77518842)
+
 The code is incomplete as the implementation required me to get up tp date with java for react and adding typescript to that mix.
 
 USE CASES:
