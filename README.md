@@ -7,10 +7,8 @@ Use case 1:
 
 On open, display heading, existing tasks and buttons.
 		Props:
-
-				- 
 		States:
-				-
+				
 
 App function, via html, show heading etc to describe what is shown via mock up. Use add task function to display shortened list of tasks.
 
